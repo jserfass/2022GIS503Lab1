@@ -1,0 +1,51 @@
+h1 {
+	font-family: Calibri, sans-serif;
+	color: #0066ff;
+	font-size: 100px;
+	text-shadow: 6px 6px 15px white;
+	font-weight: bold;
+	text-align: center;
+}
+h2 {
+	font-family: Calibri, sans-serif;
+	color: #3366ff;
+	font-size: 60px;
+	text-shadow: 4px 4px 10px white;
+	font-weight: bold;
+	text-align: center;
+}
+h3 {
+	font-family: Calibri, sans-serif;
+	color: #000000;
+	font-size: 30px;
+	text-shadow: 3px 3px 7px blue;
+	font-weight: bold;
+	text-align: center;
+}
+h4 {
+	font-family: Calibri, sans-serif;
+	color: #00ff00;
+	font-size: 100px;
+	text-shadow: 6px 6px 15px white;
+	font-weight: bold;
+	text-align: center;
+}
+h5	{
+		font-family: Calibri, sans-serif;
+		color: #00ff00;
+		font-size: 60px;
+		text-shadow: 4px 4px 10px white;
+		font-weight: bold;
+		text-align: center;
+	}
+p
+ {
+	font-family: Times New Roman, sans-serif;
+	color: #000000;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px white;
+	font-weight: bold;
+	border-style: groove;
+	border-color: #0000ff;
+	text-align: center;
+}
